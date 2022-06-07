@@ -148,7 +148,9 @@ body {
 }
 
 @media (max-width:812px)  {
-  
+  .card-body .food-img {
+    width: 50px;
+  }
 }
 
 
